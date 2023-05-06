@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url("https://fonts.cdnfonts.com/css/warcraft");
 
 :root {
   --foreground-rgb: 0, 0, 0;
@@ -16,12 +17,25 @@
   }
 }
 
+
+html,body {
+  background: url("../img/page-background.jpg");
+  font-family: "Warcraft", sans-serif;
+}
+
+/* Fallback font */
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  font-family: Arial, sans-serif;
+}
+
+
+body::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  width: 7px;
+  background-color: #725f3d;
+  transform: translateX(-50%);
 }
