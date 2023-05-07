@@ -22,7 +22,9 @@ function Card({
                     }`
                 }
                 src={image}
-                alt={title}/>
+                alt={
+                    title ? title : 'card-image'
+                }/>
         }
             <h2>{title}</h2>
             <div className={

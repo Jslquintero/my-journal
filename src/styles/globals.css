@@ -17,17 +17,11 @@
   }
 }
 
-
-html,body {
+body {
   background: url("../img/page-background.jpg");
   font-family: "Warcraft", sans-serif;
+  overflow-y: hidden;
 }
-
-/* Fallback font */
-body {
-  font-family: Arial, sans-serif;
-}
-
 
 body::before {
   content: "";
@@ -36,6 +30,7 @@ body::before {
   bottom: 0;
   left: 50%;
   width: 7px;
-  background-color: #725f3d;
+  background-color: rgba(85, 61, 16, 0.87);
+  box-shadow: 0 0 10px 5px rgba(158, 111, 17, 0.966);
   transform: translateX(-50%);
 }
