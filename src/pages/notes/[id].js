@@ -2,6 +2,7 @@ import {useRouter} from 'next/router'
 import notesData from '../../../data/notes.json'
 import Layout from '../../components/_layout'
 import Card from '../../components/card/card'
+import styles from './Note.module.css'
 
 export async function getStaticPaths() {
     const paths = notesData.map(note => ({
@@ -35,7 +36,7 @@ const NotePage = ({note}) => {
 
     return (
         <Layout>
-            <>
+            <div className={styles.page}>
                 <div className='grid grid-cols-1'>
                     <div className='col-span-1'>
                         <Card title={
@@ -54,7 +55,7 @@ const NotePage = ({note}) => {
                 </div>
 
 
-            </>
+            </div>
         </Layout>
     )
 }

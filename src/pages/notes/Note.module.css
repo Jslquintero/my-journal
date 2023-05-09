@@ -3,3 +3,11 @@
 .font {
   font-family: "Warcraft", sans-serif;
 }
+
+.page {
+  background: url("../../../public/static/page.jpg");
+  margin-left: 1rem;
+  margin-right: 1rem;
+  padding: 4.4em;
+  
+}

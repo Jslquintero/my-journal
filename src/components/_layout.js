@@ -1,6 +1,6 @@
 import {Inter} from 'next/font/google'
 import Head from 'next/head'
-
+import Navbar from './nav/nav'
 
 const Layout = ({children, title}) => {
     return (
@@ -11,6 +11,7 @@ const Layout = ({children, title}) => {
                 <link href="https://fonts.cdnfonts.com/css/warcraft" rel="stylesheet"/>
             </Head>
             <div className='layout-container'>
+                <Navbar/>
                 <main>{children}</main>
             </div>
         </>
