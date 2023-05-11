@@ -1,22 +1,23 @@
 import {useRouter} from 'next/router'
-import notesData from '../../../data/notes.json'
-import Layout from '../../components/_layout'
-import Card from '../../components/card/card'
-import styles from './Note.module.css'
+import Head from 'next/head'
+import notesData from '../../../../data/notes.json'
+import Layout from '../../../components/_layout'
+import Card from '../../../components/card/card'
+import styles from '../Note.module.css'
 
 export async function getStaticPaths() {
     const paths = notesData.map(note => ({
         params: {
-            id: note.id.toString()
+            pageNumber: note.pageNumber.toString(),
+            characterName: note.characterName.toLowerCase()
         }
     }))
     return {paths, fallback: false}
 }
 
-export async function getStaticProps({params: {
-        id
-    }}) {
-    const note = notesData.find(n => n.id === parseInt(id))
+export async function getStaticProps({params}) {
+    const {pageNumber, characterName} = params
+    const note = notesData.find(n => n.pageNumber === parseInt(pageNumber) && n.characterName.toLowerCase() === characterName)
     return {props: {
             note
         }}
@@ -25,8 +26,9 @@ export async function getStaticProps({params: {
 
 const NotePage = ({note}) => {
     const router = useRouter()
-    const {id} = router.query
-    const notesLength = Object.keys(notesData).length
+    const {characterName, pageNumber} = router.query
+    const notesLength = notesData.filter(n => n.characterName.toLowerCase() === characterName).length
+
     // up to 12 paragraphs
     const paragraphs = note.paragraphs.map((paragraph, index) => (
         <p className='mt-10'
@@ -35,8 +37,14 @@ const NotePage = ({note}) => {
     ))
 
     return (
-        <Layout>
-            <div className={styles.page}>
+        <Layout title={
+            `${characterName} - ${
+                note.topic
+            }`
+        }>
+            <div className={
+                styles.page
+            }>
                 <div className='grid grid-cols-1'>
                     <div className='col-span-1'>
                         <Card title={
@@ -47,9 +55,8 @@ const NotePage = ({note}) => {
                             }
                             imgWidth={600}
                             imgHeight={600}
-                            currentPage={id}
-                            totalPages={notesLength}
-                            >
+                            currentPage={pageNumber}
+                            totalPages={notesLength}>
                             {paragraphs} </Card>
                     </div>
                 </div>
