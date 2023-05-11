@@ -1,5 +1,6 @@
 import NextImage from 'next/image'
 import styles from './Card.module.css';
+import buttonBackground from '../../../public/static/BTNPebble.png'
 
 function Card({
     title,
@@ -29,6 +30,17 @@ function Card({
                     <h2 className="text-gray-800 text-3xl font-bold mb-3">
                         {title}
                         <div className="flex justify-end">
+                            <button className={
+                                `${
+                                    styles.homeButton
+                                }`
+                            }>
+                                <NextImage src={buttonBackground}
+                                    width={30}
+                                    height={30}
+                                    alt='imagen'></NextImage>
+                            </button>
+
                             <button className="font-bold py-2 px-4 rounded">
                                 Play
                             </button>
@@ -44,7 +56,7 @@ function Card({
                                 Previous Page
                             </button>
                         </div>
-                        <div className='flex justify-center py-2 px-4' >
+                        <div className='flex justify-center py-2 px-4'>
                             <p>{currentPage}/{totalPages}</p>
                         </div>
                         <div className="flex justify-start">

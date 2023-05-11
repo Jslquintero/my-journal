@@ -17,4 +17,5 @@
 .navbarItem {
   margin: 0 4rem;
   background-color: rgba(137, 218, 200, 0.795);
+  padding: 0.5rem 1rem;
 }

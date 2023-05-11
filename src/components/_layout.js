@@ -11,7 +11,6 @@ const Layout = ({children, title}) => {
                 <link href="https://fonts.cdnfonts.com/css/warcraft" rel="stylesheet"/>
             </Head>
             <div className='layout-container'>
-                <Navbar/>
                 <main>{children}</main>
             </div>
         </>
