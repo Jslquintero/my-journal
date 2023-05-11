@@ -23,6 +23,9 @@ export async function getStaticProps({params}) {
         }}
 }
 
+function capitalizeFirstLetter(str) {
+    return str[0].toUpperCase() + str.slice(1);
+}
 
 const NotePage = ({note}) => {
     const router = useRouter()
@@ -38,7 +41,9 @@ const NotePage = ({note}) => {
 
     return (
         <Layout title={
-            `${characterName} - ${
+            `${
+                capitalizeFirstLetter(characterName)
+            } - ${
                 note.topic
             }`
         }>

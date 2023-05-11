@@ -6,7 +6,7 @@ const Layout = ({children, title}) => {
     return (
         <>
             <Head>
-                <title className='capitalize'>{title}</title>
+                <title>{title}</title>
                 <meta charSet='utf-8'/>
                 <link href="https://fonts.cdnfonts.com/css/warcraft" rel="stylesheet"/>
             </Head>
