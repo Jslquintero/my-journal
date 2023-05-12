@@ -11,7 +11,8 @@ function Card({
     totalPages,
     imgWidth,
     imgHeight,
-    onPageChange
+    onPageChange,
+    paginationControlsVisibility = 'visible'
 }) {
     const handlePage = (increment) => {
         const newPage = parseInt(currentPage) + increment
@@ -54,7 +55,7 @@ function Card({
                         {paragraph}</p>
                     {children}
 
-                    <div className="grid grid-cols-3">
+                    <div className={`${paginationControlsVisibility} grid grid-cols-3`}>
                         <div className="flex justify-end">
                             <button className="font-bold py-2 px-4 rounded"
                                 onClick={

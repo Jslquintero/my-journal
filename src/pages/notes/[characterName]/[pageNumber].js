@@ -1,5 +1,4 @@
 import {useRouter} from 'next/router'
-import Head from 'next/head'
 import notesData from '../../../../data/notes.json'
 import Layout from '../../../components/_layout'
 import Card from '../../../components/card/card'
@@ -7,7 +6,7 @@ import styles from '../Note.module.css'
 
 export async function getStaticPaths() {
     const paths = []
-    notesData[0].characters.forEach((character) => {
+    notesData.characters.forEach((character) => {
         character.pages.forEach((page) => {
             paths.push({
                 params: {
@@ -22,7 +21,7 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({params}) {
     const {characterName, pageNumber} = params
-    const character = notesData[0].characters.find((c) => c.name.toLowerCase() === characterName)
+    const character = notesData.characters.find((c) => c.name.toLowerCase() === characterName)
     const page = character.pages.find((p) => p.pageNumber === parseInt(pageNumber))
     return {
         props: {
@@ -40,7 +39,7 @@ const capitalizeFirstLetter = (str) => {
 const NotePage = ({note}) => {
     const router = useRouter()
     const {characterName, pageNumber} = router.query
-    const character = notesData[0].characters.find((c) => c.name.toLowerCase() === characterName)
+    const character = notesData.characters.find((c) => c.name.toLowerCase() === characterName)
     const notesLength = character.pages.length
 
 

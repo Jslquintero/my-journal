@@ -1,25 +1,54 @@
+import {useRouter} from 'next/router'
+import NextImage from 'next/image'
+import imageData from '../../../data/images.json'
+import notesData from '../../../data/notes.json'
 import Layout from '../../components/_layout'
-import {useState, useEffect} from 'react'
+import Card from '../../components/card/card'
+import styles from './Note.module.css'
+
 
 const Notes = () => {
-    const [notes, setNotes] = useState([])
 
-    useEffect(() => {
-        async function fetchNotes() {
-            const res = await fetch('/api/notes')
-            const data = await res.json()
-            setNotes(data)
-        }
-        fetchNotes()
-    }, [])
+    return (<>
+        <Layout>
+            <div className={
+                styles.page
+            }>
+                <div className='grid grid-cols-1'>
+                    <div className='col-span-1'>
+                        <Card paginationControlsVisibility="hidden" image=""
+                            imgWidth={600}
+                            imgHeight={600}>
 
-    return (
-        <>
-            <Layout>
-
-            </Layout>
-        </>
-    )
+                            <p>asdsad</p>
+                            <div className='flex justify-end'>
+                                <ul>
+                                    <li>
+                                        <h1>Beldruk</h1>
+                                        <NextImage src={
+                                                notesData.characters[0].race
+                                            }
+                                            width={50}
+                                            height={50}></NextImage>
+                                        <NextImage src={
+                                                notesData.characters[0].charClass
+                                            }
+                                            width={50}
+                                            height={50}></NextImage>
+                                        <NextImage src={
+                                                notesData.characters[0].bodyType
+                                            }
+                                            width={50}
+                                            height={50}></NextImage>
+                                    </li>
+                                </ul>
+                            </div>
+                        </Card>
+                    </div>
+                </div>
+            </div>
+        </Layout>
+    </>)
 }
 
 export default Notes
