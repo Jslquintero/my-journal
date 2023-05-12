@@ -10,8 +10,14 @@ function Card({
     currentPage,
     totalPages,
     imgWidth,
-    imgHeight
+    imgHeight,
+    onPageChange
 }) {
+    const handlePage = (increment) => {
+        const newPage = parseInt(currentPage) + increment
+        onPageChange(newPage)
+    }
+
     return (
         <div className="bg-transparent mt-20 overflow-hidden relative">
             <div className="md:flex md:flex-row">
@@ -22,7 +28,7 @@ function Card({
                         alt={
                             title ? title : 'image'
                         }/>
-                    <div className='ml-10'>
+                    <div className="ml-10">
                         <p>{title}</p>
                     </div>
                 </div>
@@ -38,29 +44,39 @@ function Card({
                                 <NextImage src={buttonBackground}
                                     width={30}
                                     height={30}
-                                    alt='imagen'></NextImage>
+                                    alt="imagen"></NextImage>
                             </button>
 
-                            <button className="font-bold py-2 px-4 rounded">
-                                Play
-                            </button>
+                            <button className="font-bold py-2 px-4 rounded">Play</button>
                         </div>
                     </h2>
                     <p className="text-gray-600 text-lg mb-4">
                         {paragraph}</p>
                     {children}
 
-                    <div className='grid grid-cols-3'>
+                    <div className="grid grid-cols-3">
                         <div className="flex justify-end">
-                            <button className="font-bold py-2 px-4 rounded">
+                            <button className="font-bold py-2 px-4 rounded"
+                                onClick={
+                                    () => handlePage(-1)
+                                }
+                                disabled={
+                                    currentPage === 1
+                            }>
                                 Previous Page
                             </button>
                         </div>
-                        <div className='flex justify-center py-2 px-4'>
-                            <p>{currentPage}/{totalPages}</p>
+                        <div className="flex justify-center py-2 px-4">
+                            <p> {currentPage}/{totalPages} </p>
                         </div>
                         <div className="flex justify-start">
-                            <button className="font-bold py-2 px-4 rounded">
+                            <button className="font-bold py-2 px-4 rounded"
+                                onClick={
+                                    () => handlePage(1)
+                                }
+                                disabled={
+                                    currentPage === totalPages
+                            }>
                                 Next Page
                             </button>
                         </div>

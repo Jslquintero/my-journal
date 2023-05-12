@@ -6,37 +6,53 @@ import Card from '../../../components/card/card'
 import styles from '../Note.module.css'
 
 export async function getStaticPaths() {
-    const paths = notesData.map(note => ({
-        params: {
-            pageNumber: note.pageNumber.toString(),
-            characterName: note.characterName.toLowerCase()
-        }
-    }))
+    const paths = []
+    notesData[0].characters.forEach((character) => {
+        character.pages.forEach((page) => {
+            paths.push({
+                params: {
+                    characterName: character.name.toLowerCase(),
+                    pageNumber: page.pageNumber.toString()
+                }
+            })
+        })
+    })
     return {paths, fallback: false}
 }
 
 export async function getStaticProps({params}) {
-    const {pageNumber, characterName} = params
-    const note = notesData.find(n => n.pageNumber === parseInt(pageNumber) && n.characterName.toLowerCase() === characterName)
-    return {props: {
-            note
-        }}
+    const {characterName, pageNumber} = params
+    const character = notesData[0].characters.find((c) => c.name.toLowerCase() === characterName)
+    const page = character.pages.find((p) => p.pageNumber === parseInt(pageNumber))
+    return {
+        props: {
+            note: page
+        }
+    }
 }
 
-function capitalizeFirstLetter(str) {
+
+const capitalizeFirstLetter = (str) => {
     return str[0].toUpperCase() + str.slice(1);
 }
+
 
 const NotePage = ({note}) => {
     const router = useRouter()
     const {characterName, pageNumber} = router.query
-    const notesLength = notesData.filter(n => n.characterName.toLowerCase() === characterName).length
+    const character = notesData[0].characters.find((c) => c.name.toLowerCase() === characterName)
+    const notesLength = character.pages.length
+
+
+    const handlePageChange = (page) => {
+        router.push(`/notes/${characterName}/${page}`)
+    }
 
     // up to 12 paragraphs
     const paragraphs = note.paragraphs.map((paragraph, index) => (
         <p className='mt-10'
             key={index}>
-            {paragraph}</p>
+            {paragraph} </p>
     ))
 
     return (
@@ -61,15 +77,15 @@ const NotePage = ({note}) => {
                             imgWidth={600}
                             imgHeight={600}
                             currentPage={pageNumber}
-                            totalPages={notesLength}>
+                            totalPages={notesLength}
+                            onPageChange={handlePageChange}>
                             {paragraphs} </Card>
                     </div>
                 </div>
-
-
             </div>
         </Layout>
     )
 }
+
 
 export default NotePage
