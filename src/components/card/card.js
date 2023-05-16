@@ -12,7 +12,8 @@ function Card({
     imgWidth,
     imgHeight,
     onPageChange,
-    paginationControlsVisibility = 'visible'
+    paginationControlsVisibility = 'visible',
+    imageSectionVisibility = 'visible'
 }) {
     const handlePage = (increment) => {
         const newPage = parseInt(currentPage) + increment
@@ -23,7 +24,10 @@ function Card({
         <div className="bg-transparent mt-20 overflow-hidden relative">
             <div className="md:flex md:flex-row">
                 <div className="md:w-1/2 relative">
-                    <NextImage src={image}
+                    <NextImage className={
+                            `${imageSectionVisibility}`
+                        }
+                        src={image}
                         width={imgWidth}
                         height={imgHeight}
                         alt={
@@ -55,7 +59,9 @@ function Card({
                         {paragraph}</p>
                     {children}
 
-                    <div className={`${paginationControlsVisibility} grid grid-cols-3`}>
+                    <div className={
+                        `${paginationControlsVisibility} grid grid-cols-3`
+                    }>
                         <div className="flex justify-end">
                             <button className="font-bold py-2 px-4 rounded"
                                 onClick={

@@ -1,63 +1,61 @@
-[
-  {
-    "characterCreate": {
-      "race": {
-        "undead": {
-          "male": "https://static.wikia.nocookie.net/wowpedia/images/3/30/Charactercreate-races_human-male.png/revision/latest?cb=20200517135240",
-          "female": "https://static.wikia.nocookie.net/wowpedia/images/7/7a/Charactercreate-races_human-female.png/revision/latest?cb=20200517135248"
-        },
-        "orc": {
-          "male": "https://static.wikia.nocookie.net/wowpedia/images/9/90/Charactercreate-races_orc-male.png/revision/latest?cb=20200517185004",
-          "female": "https://static.wikia.nocookie.net/wowpedia/images/f/ff/Charactercreate-races_orc-female.png/revision/latest?cb=20200517185023"
-        },
-        "troll": {
-          "male": "https://static.wikia.nocookie.net/wowpedia/images/0/0f/Charactercreate-races_troll-male.png/revision/latest?cb=20200517185041",
-          "female": "https://static.wikia.nocookie.net/wowpedia/images/f/f4/Charactercreate-races_troll-female.png/revision/latest?cb=20200517185051"
-        },
-        "tauren": {
-          "male": "https://static.wikia.nocookie.net/wowpedia/images/0/0f/Charactercreate-races_tauren-male.png/revision/latest?cb=20200517185028",
-          "female": "https://static.wikia.nocookie.net/wowpedia/images/a/ac/Charactercreate-races_tauren-female.png/revision/latest?cb=20200517185034"
-        },
-        "goblin": {
-          "male": "https://static.wikia.nocookie.net/wowpedia/images/9/91/Charactercreate-races_goblin-male.png/revision/latest?cb=20200517185122",
-          "female": "https://static.wikia.nocookie.net/wowpedia/images/b/b7/Charactercreate-races_goblin-female.png/revision/latest?cb=20200517185128"
-        },
-        "human": {
-          "male": "https://static.wikia.nocookie.net/wowpedia/images/3/30/Charactercreate-races_human-male.png/revision/latest?cb=20200517135240",
-          "female": "https://static.wikia.nocookie.net/wowpedia/images/7/7a/Charactercreate-races_human-female.png/revision/latest?cb=20200517135248"
-        },
-        "dwarf": {
-          "male": "https://static.wikia.nocookie.net/wowpedia/images/a/a3/Charactercreate-races_dwarf-male.png/revision/latest?cb=20200517135049",
-          "female": "https://static.wikia.nocookie.net/wowpedia/images/2/22/Charactercreate-races_dwarf-female.png/revision/latest?cb=20200517135056"
-        },
-        "gnome": {
-          "male": "https://static.wikia.nocookie.net/wowpedia/images/a/a0/Charactercreate-races_gnome-male.png/revision/latest?cb=20200517135215",
-          "female": "https://static.wikia.nocookie.net/wowpedia/images/a/a6/Charactercreate-races_gnome-female.png/revision/latest?cb=20200517135226"
-        },
-        "nightElf": {
-          "male": "https://static.wikia.nocookie.net/wowpedia/images/8/87/Charactercreate-races_nightelf-male.png/revision/latest?cb=20200517135304",
-          "female": "https://static.wikia.nocookie.net/wowpedia/images/a/a7/Charactercreate-races_nightelf-female.png/revision/latest?cb=20200517135310"
-        },
-        "highElf": {
-          "male": "https://static.wikia.nocookie.net/wowpedia/images/2/2a/Charactercreate-races_bloodelf-male.png/revision/latest?cb=20200517184943",
-          "female": "https://static.wikia.nocookie.net/wowpedia/images/f/f7/Charactercreate-races_bloodelf-female.png/revision/latest?cb=20200517184956"
-        }
+{
+  "characterCreate": {
+    "race": {
+      "undead": {
+        "typeOne": "https://static.wikia.nocookie.net/wowpedia/images/b/bf/Charactercreate-races_undead-male.png/revision/latest?cb=20200517185109",
+        "typeTwo": "https://static.wikia.nocookie.net/wowpedia/images/d/dd/Charactercreate-races_undead-female.png/revision/latest?cb=20200517185115"
       },
-      "class": {
-        "paladin": "https://static.wikia.nocookie.net/wowpedia/images/f/fa/Charactercreate-class_paladin.png/revision/latest?cb=20200517190005",
-        "warrior": "https://static.wikia.nocookie.net/wowpedia/images/0/0f/Charactercreate-class_warrior.png/revision/latest?cb=20200517190030",
-        "hunter": "https://static.wikia.nocookie.net/wowpedia/images/e/e8/Charactercreate-class_hunter.png/revision/latest?cb=20200517185951",
-        "rogue": "https://static.wikia.nocookie.net/wowpedia/images/6/66/Charactercreate-class_rogue.png/revision/latest?cb=20200517190014",
-        "priest": "https://static.wikia.nocookie.net/wowpedia/images/7/7e/Charactercreate-class_priest.png/revision/latest?cb=20200517190009",
-        "shaman": "https://static.wikia.nocookie.net/wowpedia/images/1/17/Charactercreate-class_shaman.png/revision/latest?cb=20200517190019",
-        "mage": "https://static.wikia.nocookie.net/wowpedia/images/c/cc/Charactercreate-class_mage.png/revision/latest?cb=20200517185956",
-        "warlock": "https://static.wikia.nocookie.net/wowpedia/images/4/4f/Charactercreate-class_warlock.png/revision/latest?cb=20200517190024",
-        "druid": "https://static.wikia.nocookie.net/wowpedia/images/6/66/Charactercreate-class_druid.png/revision/latest?cb=20200517185946"
+      "orc": {
+        "typeOne": "https://static.wikia.nocookie.net/wowpedia/images/9/90/Charactercreate-races_orc-male.png/revision/latest?cb=20200517185004",
+        "typeTwo": "https://static.wikia.nocookie.net/wowpedia/images/f/ff/Charactercreate-races_orc-female.png/revision/latest?cb=20200517185023"
       },
-      "bodyType": {
-        "typeOne": "https://static.wikia.nocookie.net/wowpedia/images/8/8c/Charactercreate-gender-male.png/revision/latest?cb=20220930124112",
-        "typeTwo": "https://static.wikia.nocookie.net/wowpedia/images/0/03/Charactercreate-gender-female.png/revision/latest?cb=20220930124104"
+      "troll": {
+        "typeOne": "https://static.wikia.nocookie.net/wowpedia/images/0/0f/Charactercreate-races_troll-male.png/revision/latest?cb=20200517185041",
+        "typeTwo": "https://static.wikia.nocookie.net/wowpedia/images/f/f4/Charactercreate-races_troll-female.png/revision/latest?cb=20200517185051"
+      },
+      "tauren": {
+        "typeOne": "https://static.wikia.nocookie.net/wowpedia/images/0/0f/Charactercreate-races_tauren-male.png/revision/latest?cb=20200517185028",
+        "typeTwo": "https://static.wikia.nocookie.net/wowpedia/images/a/ac/Charactercreate-races_tauren-female.png/revision/latest?cb=20200517185034"
+      },
+      "goblin": {
+        "typeOne": "https://static.wikia.nocookie.net/wowpedia/images/9/91/Charactercreate-races_goblin-male.png/revision/latest?cb=20200517185122",
+        "typeTwo": "https://static.wikia.nocookie.net/wowpedia/images/b/b7/Charactercreate-races_goblin-female.png/revision/latest?cb=20200517185128"
+      },
+      "human": {
+        "typeOne": "https://static.wikia.nocookie.net/wowpedia/images/3/30/Charactercreate-races_human-male.png/revision/latest?cb=20200517135240",
+        "typeTwo": "https://static.wikia.nocookie.net/wowpedia/images/7/7a/Charactercreate-races_human-female.png/revision/latest?cb=20200517135248"
+      },
+      "dwarf": {
+        "typeOne": "https://static.wikia.nocookie.net/wowpedia/images/a/a3/Charactercreate-races_dwarf-male.png/revision/latest?cb=20200517135049",
+        "typeTwo": "https://static.wikia.nocookie.net/wowpedia/images/2/22/Charactercreate-races_dwarf-female.png/revision/latest?cb=20200517135056"
+      },
+      "gnome": {
+        "typeOne": "https://static.wikia.nocookie.net/wowpedia/images/a/a0/Charactercreate-races_gnome-male.png/revision/latest?cb=20200517135215",
+        "typeTwo": "https://static.wikia.nocookie.net/wowpedia/images/a/a6/Charactercreate-races_gnome-female.png/revision/latest?cb=20200517135226"
+      },
+      "nightElf": {
+        "typeOne": "https://static.wikia.nocookie.net/wowpedia/images/8/87/Charactercreate-races_nightelf-male.png/revision/latest?cb=20200517135304",
+        "typeTwo": "https://static.wikia.nocookie.net/wowpedia/images/a/a7/Charactercreate-races_nightelf-female.png/revision/latest?cb=20200517135310"
+      },
+      "highElf": {
+        "typeOne": "https://static.wikia.nocookie.net/wowpedia/images/2/2a/Charactercreate-races_bloodelf-male.png/revision/latest?cb=20200517184943",
+        "typeTwo": "https://static.wikia.nocookie.net/wowpedia/images/f/f7/Charactercreate-races_bloodelf-female.png/revision/latest?cb=20200517184956"
       }
+    },
+    "charClass": {
+      "paladin": "https://static.wikia.nocookie.net/wowpedia/images/f/fa/Charactercreate-class_paladin.png/revision/latest?cb=20200517190005",
+      "warrior": "https://static.wikia.nocookie.net/wowpedia/images/0/0f/Charactercreate-class_warrior.png/revision/latest?cb=20200517190030",
+      "hunter": "https://static.wikia.nocookie.net/wowpedia/images/e/e8/Charactercreate-class_hunter.png/revision/latest?cb=20200517185951",
+      "rogue": "https://static.wikia.nocookie.net/wowpedia/images/6/66/Charactercreate-class_rogue.png/revision/latest?cb=20200517190014",
+      "priest": "https://static.wikia.nocookie.net/wowpedia/images/7/7e/Charactercreate-class_priest.png/revision/latest?cb=20200517190009",
+      "shaman": "https://static.wikia.nocookie.net/wowpedia/images/1/17/Charactercreate-class_shaman.png/revision/latest?cb=20200517190019",
+      "mage": "https://static.wikia.nocookie.net/wowpedia/images/c/cc/Charactercreate-class_mage.png/revision/latest?cb=20200517185956",
+      "warlock": "https://static.wikia.nocookie.net/wowpedia/images/4/4f/Charactercreate-class_warlock.png/revision/latest?cb=20200517190024",
+      "druid": "https://static.wikia.nocookie.net/wowpedia/images/6/66/Charactercreate-class_druid.png/revision/latest?cb=20200517185946"
+    },
+    "bodyType": {
+      "typeOne": "https://static.wikia.nocookie.net/wowpedia/images/8/8c/Charactercreate-gender-male.png/revision/latest?cb=20220930124112",
+      "typeTwo": "https://static.wikia.nocookie.net/wowpedia/images/0/03/Charactercreate-gender-female.png/revision/latest?cb=20220930124104"
     }
   }
-]
+}
