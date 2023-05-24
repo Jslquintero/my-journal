@@ -1,787 +1,525 @@
 {
-  "characters": [
-    {
-      "name": "Beldruk",
-      "race": "human",
-      "charClass": "paladin",
-      "bodyType": "typeOne",
-      "pages": [
-        {
-          "pageNumber": 1,
-          "topic": "Encounter with the Scourge",
-          "title": "Beldruk the Mute Paladin",
-          "image": "/img/imagen.png",
-          "paragraphs": [
-            "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.",
-            "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.",
-            "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.",
-            "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination."
-          ]
-        },
-        {
-          "pageNumber": 2,
-          "topic": "The Battle of Ironcliff",
-          "title": "Beldruk's Valor",
-          "image": "/img/imagen2.png",
-          "paragraphs": []
-        }
-      ]
-    },
-    {
-      "name": "Malstorm",
-      "race": "orc",
-      "charClass": "shaman",
-      "bodyType": "typeOne",
-      "pages": [
-        {
-          "pageNumber": 1,
-          "topic": "Encounter with the Scourge",
-          "title": "Beldruk the Mute Paladin",
-          "image": "/img/imagen.png",
-          "paragraphs": [
-            "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.",
-            "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.",
-            "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.",
-            "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination."
-          ]
-        },
-        {
-          "pageNumber": 2,
-          "topic": "The Battle of Ironcliff",
-          "title": "Beldruk's Valor",
-          "image": "/img/imagen2.png",
-          "paragraphs": []
-        }
-      ]
-    },
-    {
-      "name": "Malstorm",
-      "race": "orc",
-      "charClass": "shaman",
-      "bodyType": "typeOne",
-      "pages": [
-        {
-          "pageNumber": 1,
-          "topic": "Encounter with the Scourge",
-          "title": "Beldruk the Mute Paladin",
-          "image": "/img/imagen.png",
-          "paragraphs": [
-            "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.",
-            "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.",
-            "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.",
-            "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination."
-          ]
-        },
-        {
-          "pageNumber": 2,
-          "topic": "The Battle of Ironcliff",
-          "title": "Beldruk's Valor",
-          "image": "/img/imagen2.png",
-          "paragraphs": []
-        }
-      ]
-    },
-    {
-      "name": "malkai",
-      "race": "dwarf",
-      "charClass": "hunter",
-      "bodyType": "typeOne",
-      "pages": [
-        {
-          "pageNumber": 1,
-          "topic": "Encounter with the Scourge",
-          "title": "Beldruk the Mute Paladin",
-          "image": "/img/imagen.png",
-          "paragraphs": [
-            "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.",
-            "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.",
-            "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.",
-            "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination."
-          ]
-        },
-        {
-          "pageNumber": 2,
-          "topic": "The Battle of Ironcliff",
-          "title": "Beldruk's Valor",
-          "image": "/img/imagen2.png",
-          "paragraphs": []
-        }
-      ]
-    },
-    {
-      "name": "John",
-      "race": "undead",
-      "charClass": "warrior",
-      "bodyType": "typeTwo",
-      "pages": [
-        {
-          "pageNumber": 1,
-          "topic": "Encounter with the Scourge",
-          "title": "Beldruk the Mute Paladin",
-          "image": "/img/imagen.png",
-          "paragraphs": [
-            "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.",
-            "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.",
-            "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.",
-            "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination."
-          ]
-        },
-        {
-          "pageNumber": 2,
-          "topic": "The Battle of Ironcliff",
-          "title": "Beldruk's Valor",
-          "image": "/img/imagen2.png",
-          "paragraphs": []
-        }
-      ]
-    },
-    {
-      "name": "John",
-      "race": "undead",
-      "charClass": "warrior",
-      "bodyType": "typeTwo",
-      "pages": [
-        {
-          "pageNumber": 1,
-          "topic": "Encounter with the Scourge",
-          "title": "Beldruk the Mute Paladin",
-          "image": "/img/imagen.png",
-          "paragraphs": [
-            "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.",
-            "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.",
-            "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.",
-            "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination."
-          ]
-        },
-        {
-          "pageNumber": 2,
-          "topic": "The Battle of Ironcliff",
-          "title": "Beldruk's Valor",
-          "image": "/img/imagen2.png",
-          "paragraphs": []
-        }
-      ]
-    },
-    {
-      "name": "John",
-      "race": "undead",
-      "charClass": "warrior",
-      "bodyType": "typeTwo",
-      "pages": [
-        {
-          "pageNumber": 1,
-          "topic": "Encounter with the Scourge",
-          "title": "Beldruk the Mute Paladin",
-          "image": "/img/imagen.png",
-          "paragraphs": [
-            "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.",
-            "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.",
-            "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.",
-            "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination."
-          ]
-        },
-        {
-          "pageNumber": 2,
-          "topic": "The Battle of Ironcliff",
-          "title": "Beldruk's Valor",
-          "image": "/img/imagen2.png",
-          "paragraphs": []
-        }
-      ]
-    },
-    {
-      "name": "John",
-      "race": "undead",
-      "charClass": "warrior",
-      "bodyType": "typeTwo",
-      "pages": [
-        {
-          "pageNumber": 1,
-          "topic": "Encounter with the Scourge",
-          "title": "Beldruk the Mute Paladin",
-          "image": "/img/imagen.png",
-          "paragraphs": [
-            "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.",
-            "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.",
-            "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.",
-            "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination."
-          ]
-        },
-        {
-          "pageNumber": 2,
-          "topic": "The Battle of Ironcliff",
-          "title": "Beldruk's Valor",
-          "image": "/img/imagen2.png",
-          "paragraphs": []
-        }
-      ]
-    },
-    {
-      "name": "John",
-      "race": "undead",
-      "charClass": "warrior",
-      "bodyType": "typeTwo",
-      "pages": [
-        {
-          "pageNumber": 1,
-          "topic": "Encounter with the Scourge",
-          "title": "Beldruk the Mute Paladin",
-          "image": "/img/imagen.png",
-          "paragraphs": [
-            "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.",
-            "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.",
-            "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.",
-            "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination."
-          ]
-        },
-        {
-          "pageNumber": 2,
-          "topic": "The Battle of Ironcliff",
-          "title": "Beldruk's Valor",
-          "image": "/img/imagen2.png",
-          "paragraphs": []
-        }
-      ]
-    },
-    {
-      "name": "John",
-      "race": "undead",
-      "charClass": "warrior",
-      "bodyType": "typeTwo",
-      "pages": [
-        {
-          "pageNumber": 1,
-          "topic": "Encounter with the Scourge",
-          "title": "Beldruk the Mute Paladin",
-          "image": "/img/imagen.png",
-          "paragraphs": [
-            "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.",
-            "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.",
-            "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.",
-            "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination."
-          ]
-        },
-        {
-          "pageNumber": 2,
-          "topic": "The Battle of Ironcliff",
-          "title": "Beldruk's Valor",
-          "image": "/img/imagen2.png",
-          "paragraphs": []
-        }
-      ]
-    },
-    {
-      "name": "John",
-      "race": "undead",
-      "charClass": "warrior",
-      "bodyType": "typeTwo",
-      "pages": [
-        {
-          "pageNumber": 1,
-          "topic": "Encounter with the Scourge",
-          "title": "Beldruk the Mute Paladin",
-          "image": "/img/imagen.png",
-          "paragraphs": [
-            "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.",
-            "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.",
-            "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.",
-            "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination."
-          ]
-        },
-        {
-          "pageNumber": 2,
-          "topic": "The Battle of Ironcliff",
-          "title": "Beldruk's Valor",
-          "image": "/img/imagen2.png",
-          "paragraphs": []
-        }
-      ]
-    },
-    {
-      "name": "John",
-      "race": "undead",
-      "charClass": "warrior",
-      "bodyType": "typeTwo",
-      "pages": [
-        {
-          "pageNumber": 1,
-          "topic": "Encounter with the Scourge",
-          "title": "Beldruk the Mute Paladin",
-          "image": "/img/imagen.png",
-          "paragraphs": [
-            "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.",
-            "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.",
-            "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.",
-            "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination."
-          ]
-        },
-        {
-          "pageNumber": 2,
-          "topic": "The Battle of Ironcliff",
-          "title": "Beldruk's Valor",
-          "image": "/img/imagen2.png",
-          "paragraphs": []
-        }
-      ]
-    },
-    {
-      "name": "John",
-      "race": "undead",
-      "charClass": "warrior",
-      "bodyType": "typeTwo",
-      "pages": [
-        {
-          "pageNumber": 1,
-          "topic": "Encounter with the Scourge",
-          "title": "Beldruk the Mute Paladin",
-          "image": "/img/imagen.png",
-          "paragraphs": [
-            "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.",
-            "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.",
-            "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.",
-            "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination."
-          ]
-        },
-        {
-          "pageNumber": 2,
-          "topic": "The Battle of Ironcliff",
-          "title": "Beldruk's Valor",
-          "image": "/img/imagen2.png",
-          "paragraphs": []
-        }
-      ]
-    },
-    {
-      "name": "John",
-      "race": "undead",
-      "charClass": "warrior",
-      "bodyType": "typeTwo",
-      "pages": [
-        {
-          "pageNumber": 1,
-          "topic": "Encounter with the Scourge",
-          "title": "Beldruk the Mute Paladin",
-          "image": "/img/imagen.png",
-          "paragraphs": [
-            "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.",
-            "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.",
-            "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.",
-            "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination."
-          ]
-        },
-        {
-          "pageNumber": 2,
-          "topic": "The Battle of Ironcliff",
-          "title": "Beldruk's Valor",
-          "image": "/img/imagen2.png",
-          "paragraphs": []
-        }
-      ]
-    },
-    {
-      "name": "John",
-      "race": "undead",
-      "charClass": "warrior",
-      "bodyType": "typeTwo",
-      "pages": [
-        {
-          "pageNumber": 1,
-          "topic": "Encounter with the Scourge",
-          "title": "Beldruk the Mute Paladin",
-          "image": "/img/imagen.png",
-          "paragraphs": [
-            "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.",
-            "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.",
-            "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.",
-            "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination."
-          ]
-        },
-        {
-          "pageNumber": 2,
-          "topic": "The Battle of Ironcliff",
-          "title": "Beldruk's Valor",
-          "image": "/img/imagen2.png",
-          "paragraphs": []
-        }
-      ]
-    },
-    {
-      "name": "John",
-      "race": "undead",
-      "charClass": "warrior",
-      "bodyType": "typeTwo",
-      "pages": [
-        {
-          "pageNumber": 1,
-          "topic": "Encounter with the Scourge",
-          "title": "Beldruk the Mute Paladin",
-          "image": "/img/imagen.png",
-          "paragraphs": [
-            "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.",
-            "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.",
-            "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.",
-            "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination."
-          ]
-        },
-        {
-          "pageNumber": 2,
-          "topic": "The Battle of Ironcliff",
-          "title": "Beldruk's Valor",
-          "image": "/img/imagen2.png",
-          "paragraphs": []
-        }
-      ]
-    },
-    {
-      "name": "John",
-      "race": "undead",
-      "charClass": "warrior",
-      "bodyType": "typeTwo",
-      "pages": [
-        {
-          "pageNumber": 1,
-          "topic": "Encounter with the Scourge",
-          "title": "Beldruk the Mute Paladin",
-          "image": "/img/imagen.png",
-          "paragraphs": [
-            "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.",
-            "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.",
-            "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.",
-            "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination."
-          ]
-        },
-        {
-          "pageNumber": 2,
-          "topic": "The Battle of Ironcliff",
-          "title": "Beldruk's Valor",
-          "image": "/img/imagen2.png",
-          "paragraphs": []
-        }
-      ]
-    },
-    {
-      "name": "John",
-      "race": "undead",
-      "charClass": "warrior",
-      "bodyType": "typeTwo",
-      "pages": [
-        {
-          "pageNumber": 1,
-          "topic": "Encounter with the Scourge",
-          "title": "Beldruk the Mute Paladin",
-          "image": "/img/imagen.png",
-          "paragraphs": [
-            "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.",
-            "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.",
-            "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.",
-            "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination."
-          ]
-        },
-        {
-          "pageNumber": 2,
-          "topic": "The Battle of Ironcliff",
-          "title": "Beldruk's Valor",
-          "image": "/img/imagen2.png",
-          "paragraphs": []
-        }
-      ]
-    },
-    {
-      "name": "John",
-      "race": "undead",
-      "charClass": "warrior",
-      "bodyType": "typeTwo",
-      "pages": [
-        {
-          "pageNumber": 1,
-          "topic": "Encounter with the Scourge",
-          "title": "Beldruk the Mute Paladin",
-          "image": "/img/imagen.png",
-          "paragraphs": [
-            "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.",
-            "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.",
-            "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.",
-            "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination."
-          ]
-        },
-        {
-          "pageNumber": 2,
-          "topic": "The Battle of Ironcliff",
-          "title": "Beldruk's Valor",
-          "image": "/img/imagen2.png",
-          "paragraphs": []
-        }
-      ]
-    },
-    {
-      "name": "John",
-      "race": "undead",
-      "charClass": "warrior",
-      "bodyType": "typeTwo",
-      "pages": [
-        {
-          "pageNumber": 1,
-          "topic": "Encounter with the Scourge",
-          "title": "Beldruk the Mute Paladin",
-          "image": "/img/imagen.png",
-          "paragraphs": [
-            "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.",
-            "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.",
-            "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.",
-            "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination."
-          ]
-        },
-        {
-          "pageNumber": 2,
-          "topic": "The Battle of Ironcliff",
-          "title": "Beldruk's Valor",
-          "image": "/img/imagen2.png",
-          "paragraphs": []
-        }
-      ]
-    },
-    {
-      "name": "John",
-      "race": "undead",
-      "charClass": "warrior",
-      "bodyType": "typeTwo",
-      "pages": [
-        {
-          "pageNumber": 1,
-          "topic": "Encounter with the Scourge",
-          "title": "Beldruk the Mute Paladin",
-          "image": "/img/imagen.png",
-          "paragraphs": [
-            "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.",
-            "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.",
-            "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.",
-            "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination."
-          ]
-        },
-        {
-          "pageNumber": 2,
-          "topic": "The Battle of Ironcliff",
-          "title": "Beldruk's Valor",
-          "image": "/img/imagen2.png",
-          "paragraphs": []
-        }
-      ]
-    },
-    {
-      "name": "John",
-      "race": "undead",
-      "charClass": "warrior",
-      "bodyType": "typeTwo",
-      "pages": [
-        {
-          "pageNumber": 1,
-          "topic": "Encounter with the Scourge",
-          "title": "Beldruk the Mute Paladin",
-          "image": "/img/imagen.png",
-          "paragraphs": [
-            "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.",
-            "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.",
-            "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.",
-            "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination."
-          ]
-        },
-        {
-          "pageNumber": 2,
-          "topic": "The Battle of Ironcliff",
-          "title": "Beldruk's Valor",
-          "image": "/img/imagen2.png",
-          "paragraphs": []
-        }
-      ]
-    },
-    {
-      "name": "John",
-      "race": "undead",
-      "charClass": "warrior",
-      "bodyType": "typeTwo",
-      "pages": [
-        {
-          "pageNumber": 1,
-          "topic": "Encounter with the Scourge",
-          "title": "Beldruk the Mute Paladin",
-          "image": "/img/imagen.png",
-          "paragraphs": [
-            "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.",
-            "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.",
-            "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.",
-            "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination."
-          ]
-        },
-        {
-          "pageNumber": 2,
-          "topic": "The Battle of Ironcliff",
-          "title": "Beldruk's Valor",
-          "image": "/img/imagen2.png",
-          "paragraphs": []
-        }
-      ]
-    },
-    {
-      "name": "John",
-      "race": "undead",
-      "charClass": "warrior",
-      "bodyType": "typeTwo",
-      "pages": [
-        {
-          "pageNumber": 1,
-          "topic": "Encounter with the Scourge",
-          "title": "Beldruk the Mute Paladin",
-          "image": "/img/imagen.png",
-          "paragraphs": [
-            "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.",
-            "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.",
-            "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.",
-            "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination."
-          ]
-        },
-        {
-          "pageNumber": 2,
-          "topic": "The Battle of Ironcliff",
-          "title": "Beldruk's Valor",
-          "image": "/img/imagen2.png",
-          "paragraphs": []
-        }
-      ]
-    },
-    {
-      "name": "John",
-      "race": "undead",
-      "charClass": "warrior",
-      "bodyType": "typeTwo",
-      "pages": [
-        {
-          "pageNumber": 1,
-          "topic": "Encounter with the Scourge",
-          "title": "Beldruk the Mute Paladin",
-          "image": "/img/imagen.png",
-          "paragraphs": [
-            "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.",
-            "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.",
-            "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.",
-            "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination."
-          ]
-        },
-        {
-          "pageNumber": 2,
-          "topic": "The Battle of Ironcliff",
-          "title": "Beldruk's Valor",
-          "image": "/img/imagen2.png",
-          "paragraphs": []
-        }
-      ]
-    },
-    {
-      "name": "John",
-      "race": "undead",
-      "charClass": "warrior",
-      "bodyType": "typeTwo",
-      "pages": [
-        {
-          "pageNumber": 1,
-          "topic": "Encounter with the Scourge",
-          "title": "Beldruk the Mute Paladin",
-          "image": "/img/imagen.png",
-          "paragraphs": [
-            "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.",
-            "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.",
-            "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.",
-            "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination."
-          ]
-        },
-        {
-          "pageNumber": 2,
-          "topic": "The Battle of Ironcliff",
-          "title": "Beldruk's Valor",
-          "image": "/img/imagen2.png",
-          "paragraphs": []
-        }
-      ]
-    },
-    {
-      "name": "John",
-      "race": "undead",
-      "charClass": "warrior",
-      "bodyType": "typeTwo",
-      "pages": [
-        {
-          "pageNumber": 1,
-          "topic": "Encounter with the Scourge",
-          "title": "Beldruk the Mute Paladin",
-          "image": "/img/imagen.png",
-          "paragraphs": [
-            "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.",
-            "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.",
-            "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.",
-            "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination."
-          ]
-        },
-        {
-          "pageNumber": 2,
-          "topic": "The Battle of Ironcliff",
-          "title": "Beldruk's Valor",
-          "image": "/img/imagen2.png",
-          "paragraphs": []
-        }
-      ]
-    },
-    {
-      "name": "John",
-      "race": "undead",
-      "charClass": "warrior",
-      "bodyType": "typeTwo",
-      "pages": [
-        {
-          "pageNumber": 1,
-          "topic": "Encounter with the Scourge",
-          "title": "Beldruk the Mute Paladin",
-          "image": "/img/imagen.png",
-          "paragraphs": [
-            "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.",
-            "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.",
-            "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.",
-            "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination."
-          ]
-        },
-        {
-          "pageNumber": 2,
-          "topic": "The Battle of Ironcliff",
-          "title": "Beldruk's Valor",
-          "image": "/img/imagen2.png",
-          "paragraphs": []
-        }
-      ]
-    },
-    {
-      "name": "John",
-      "race": "undead",
-      "charClass": "warrior",
-      "bodyType": "typeTwo",
-      "pages": [
-        {
-          "pageNumber": 1,
-          "topic": "Encounter with the Scourge",
-          "title": "Beldruk the Mute Paladin",
-          "image": "/img/imagen.png",
-          "paragraphs": [
-            "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.",
-            "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.",
-            "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.",
-            "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination."
-          ]
-        },
-        {
-          "pageNumber": 2,
-          "topic": "The Battle of Ironcliff",
-          "title": "Beldruk's Valor",
-          "image": "/img/imagen2.png",
-          "paragraphs": []
-        }
-      ]
-    }
-  ]
+  "characters": [ {
+    "bodyType": "typeOne",
+    "charClass": "paladin",
+    "name": "Beldruk",
+    "pages": [ {
+      "image": "/img/imagen.png",
+      "pageNumber": 1,
+      "paragraphs": [ "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.", "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.", "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.", "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination." ],
+      "title": "Beldruk the Mute Paladin",
+      "topic": "Encounter with the Scourge"
+    }, {
+      "image": "/img/imagen2.png",
+      "pageNumber": 2,
+      "paragraphs": [ ],
+      "title": "Beldruk's Valor",
+      "topic": "The Battle of Ironcliff"
+    } ],
+    "race": "human"
+  }, {
+    "bodyType": "typeOne",
+    "charClass": "shaman",
+    "name": "Malstorm",
+    "pages": [ {
+      "image": "/img/imagen.png",
+      "pageNumber": 1,
+      "paragraphs": [ "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.", "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.", "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.", "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination." ],
+      "title": "Beldruk the Mute Paladin",
+      "topic": "Encounter with the Scourge"
+    }, {
+      "image": "/img/imagen2.png",
+      "pageNumber": 2,
+      "paragraphs": [ ],
+      "title": "Beldruk's Valor",
+      "topic": "The Battle of Ironcliff"
+    } ],
+    "race": "orc"
+  }, {
+    "bodyType": "typeOne",
+    "charClass": "shaman",
+    "name": "Malstorm",
+    "pages": [ {
+      "image": "/img/imagen.png",
+      "pageNumber": 1,
+      "paragraphs": [ "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.", "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.", "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.", "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination." ],
+      "title": "Beldruk the Mute Paladin",
+      "topic": "Encounter with the Scourge"
+    }, {
+      "image": "/img/imagen2.png",
+      "pageNumber": 2,
+      "paragraphs": [ ],
+      "title": "Beldruk's Valor",
+      "topic": "The Battle of Ironcliff"
+    } ],
+    "race": "orc"
+  }, {
+    "bodyType": "typeOne",
+    "charClass": "hunter",
+    "name": "malkai",
+    "pages": [ {
+      "image": "/img/imagen.png",
+      "pageNumber": 1,
+      "paragraphs": [ "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.", "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.", "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.", "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination." ],
+      "title": "Beldruk the Mute Paladin",
+      "topic": "Encounter with the Scourge"
+    }, {
+      "image": "/img/imagen2.png",
+      "pageNumber": 2,
+      "paragraphs": [ ],
+      "title": "Beldruk's Valor",
+      "topic": "The Battle of Ironcliff"
+    } ],
+    "race": "dwarf"
+  }, {
+    "bodyType": "typeTwo",
+    "charClass": "warrior",
+    "name": "John",
+    "pages": [ {
+      "image": "/img/imagen.png",
+      "pageNumber": 1,
+      "paragraphs": [ "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.", "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.", "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.", "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination." ],
+      "title": "Beldruk the Mute Paladin",
+      "topic": "Encounter with the Scourge"
+    }, {
+      "image": "/img/imagen2.png",
+      "pageNumber": 2,
+      "paragraphs": [ ],
+      "title": "Beldruk's Valor",
+      "topic": "The Battle of Ironcliff"
+    } ],
+    "race": "undead"
+  }, {
+    "bodyType": "typeTwo",
+    "charClass": "warrior",
+    "name": "John",
+    "pages": [ {
+      "image": "/img/imagen.png",
+      "pageNumber": 1,
+      "paragraphs": [ "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.", "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.", "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.", "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination." ],
+      "title": "Beldruk the Mute Paladin",
+      "topic": "Encounter with the Scourge"
+    }, {
+      "image": "/img/imagen2.png",
+      "pageNumber": 2,
+      "paragraphs": [ ],
+      "title": "Beldruk's Valor",
+      "topic": "The Battle of Ironcliff"
+    } ],
+    "race": "undead"
+  }, {
+    "bodyType": "typeTwo",
+    "charClass": "warrior",
+    "name": "John",
+    "pages": [ {
+      "image": "/img/imagen.png",
+      "pageNumber": 1,
+      "paragraphs": [ "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.", "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.", "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.", "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination." ],
+      "title": "Beldruk the Mute Paladin",
+      "topic": "Encounter with the Scourge"
+    }, {
+      "image": "/img/imagen2.png",
+      "pageNumber": 2,
+      "paragraphs": [ ],
+      "title": "Beldruk's Valor",
+      "topic": "The Battle of Ironcliff"
+    } ],
+    "race": "undead"
+  }, {
+    "bodyType": "typeTwo",
+    "charClass": "warrior",
+    "name": "John",
+    "pages": [ {
+      "image": "/img/imagen.png",
+      "pageNumber": 1,
+      "paragraphs": [ "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.", "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.", "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.", "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination." ],
+      "title": "Beldruk the Mute Paladin",
+      "topic": "Encounter with the Scourge"
+    }, {
+      "image": "/img/imagen2.png",
+      "pageNumber": 2,
+      "paragraphs": [ ],
+      "title": "Beldruk's Valor",
+      "topic": "The Battle of Ironcliff"
+    } ],
+    "race": "undead"
+  }, {
+    "bodyType": "typeTwo",
+    "charClass": "warrior",
+    "name": "John",
+    "pages": [ {
+      "image": "/img/imagen.png",
+      "pageNumber": 1,
+      "paragraphs": [ "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.", "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.", "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.", "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination." ],
+      "title": "Beldruk the Mute Paladin",
+      "topic": "Encounter with the Scourge"
+    }, {
+      "image": "/img/imagen2.png",
+      "pageNumber": 2,
+      "paragraphs": [ ],
+      "title": "Beldruk's Valor",
+      "topic": "The Battle of Ironcliff"
+    } ],
+    "race": "undead"
+  }, {
+    "bodyType": "typeTwo",
+    "charClass": "warrior",
+    "name": "John",
+    "pages": [ {
+      "image": "/img/imagen.png",
+      "pageNumber": 1,
+      "paragraphs": [ "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.", "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.", "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.", "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination." ],
+      "title": "Beldruk the Mute Paladin",
+      "topic": "Encounter with the Scourge"
+    }, {
+      "image": "/img/imagen2.png",
+      "pageNumber": 2,
+      "paragraphs": [ ],
+      "title": "Beldruk's Valor",
+      "topic": "The Battle of Ironcliff"
+    } ],
+    "race": "undead"
+  }, {
+    "bodyType": "typeTwo",
+    "charClass": "warrior",
+    "name": "John",
+    "pages": [ {
+      "image": "/img/imagen.png",
+      "pageNumber": 1,
+      "paragraphs": [ "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.", "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.", "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.", "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination." ],
+      "title": "Beldruk the Mute Paladin",
+      "topic": "Encounter with the Scourge"
+    }, {
+      "image": "/img/imagen2.png",
+      "pageNumber": 2,
+      "paragraphs": [ ],
+      "title": "Beldruk's Valor",
+      "topic": "The Battle of Ironcliff"
+    } ],
+    "race": "undead"
+  }, {
+    "bodyType": "typeTwo",
+    "charClass": "warrior",
+    "name": "John",
+    "pages": [ {
+      "image": "/img/imagen.png",
+      "pageNumber": 1,
+      "paragraphs": [ "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.", "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.", "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.", "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination." ],
+      "title": "Beldruk the Mute Paladin",
+      "topic": "Encounter with the Scourge"
+    }, {
+      "image": "/img/imagen2.png",
+      "pageNumber": 2,
+      "paragraphs": [ ],
+      "title": "Beldruk's Valor",
+      "topic": "The Battle of Ironcliff"
+    } ],
+    "race": "undead"
+  }, {
+    "bodyType": "typeTwo",
+    "charClass": "warrior",
+    "name": "John",
+    "pages": [ {
+      "image": "/img/imagen.png",
+      "pageNumber": 1,
+      "paragraphs": [ "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.", "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.", "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.", "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination." ],
+      "title": "Beldruk the Mute Paladin",
+      "topic": "Encounter with the Scourge"
+    }, {
+      "image": "/img/imagen2.png",
+      "pageNumber": 2,
+      "paragraphs": [ ],
+      "title": "Beldruk's Valor",
+      "topic": "The Battle of Ironcliff"
+    } ],
+    "race": "undead"
+  }, {
+    "bodyType": "typeTwo",
+    "charClass": "warrior",
+    "name": "John",
+    "pages": [ {
+      "image": "/img/imagen.png",
+      "pageNumber": 1,
+      "paragraphs": [ "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.", "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.", "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.", "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination." ],
+      "title": "Beldruk the Mute Paladin",
+      "topic": "Encounter with the Scourge"
+    }, {
+      "image": "/img/imagen2.png",
+      "pageNumber": 2,
+      "paragraphs": [ ],
+      "title": "Beldruk's Valor",
+      "topic": "The Battle of Ironcliff"
+    } ],
+    "race": "undead"
+  }, {
+    "bodyType": "typeTwo",
+    "charClass": "warrior",
+    "name": "John",
+    "pages": [ {
+      "image": "/img/imagen.png",
+      "pageNumber": 1,
+      "paragraphs": [ "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.", "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.", "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.", "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination." ],
+      "title": "Beldruk the Mute Paladin",
+      "topic": "Encounter with the Scourge"
+    }, {
+      "image": "/img/imagen2.png",
+      "pageNumber": 2,
+      "paragraphs": [ ],
+      "title": "Beldruk's Valor",
+      "topic": "The Battle of Ironcliff"
+    } ],
+    "race": "undead"
+  }, {
+    "bodyType": "typeTwo",
+    "charClass": "warrior",
+    "name": "John",
+    "pages": [ {
+      "image": "/img/imagen.png",
+      "pageNumber": 1,
+      "paragraphs": [ "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.", "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.", "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.", "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination." ],
+      "title": "Beldruk the Mute Paladin",
+      "topic": "Encounter with the Scourge"
+    }, {
+      "image": "/img/imagen2.png",
+      "pageNumber": 2,
+      "paragraphs": [ ],
+      "title": "Beldruk's Valor",
+      "topic": "The Battle of Ironcliff"
+    } ],
+    "race": "undead"
+  }, {
+    "bodyType": "typeTwo",
+    "charClass": "warrior",
+    "name": "John",
+    "pages": [ {
+      "image": "/img/imagen.png",
+      "pageNumber": 1,
+      "paragraphs": [ "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.", "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.", "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.", "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination." ],
+      "title": "Beldruk the Mute Paladin",
+      "topic": "Encounter with the Scourge"
+    }, {
+      "image": "/img/imagen2.png",
+      "pageNumber": 2,
+      "paragraphs": [ ],
+      "title": "Beldruk's Valor",
+      "topic": "The Battle of Ironcliff"
+    } ],
+    "race": "undead"
+  }, {
+    "bodyType": "typeTwo",
+    "charClass": "warrior",
+    "name": "John",
+    "pages": [ {
+      "image": "/img/imagen.png",
+      "pageNumber": 1,
+      "paragraphs": [ "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.", "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.", "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.", "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination." ],
+      "title": "Beldruk the Mute Paladin",
+      "topic": "Encounter with the Scourge"
+    }, {
+      "image": "/img/imagen2.png",
+      "pageNumber": 2,
+      "paragraphs": [ ],
+      "title": "Beldruk's Valor",
+      "topic": "The Battle of Ironcliff"
+    } ],
+    "race": "undead"
+  }, {
+    "bodyType": "typeTwo",
+    "charClass": "warrior",
+    "name": "John",
+    "pages": [ {
+      "image": "/img/imagen.png",
+      "pageNumber": 1,
+      "paragraphs": [ "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.", "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.", "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.", "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination." ],
+      "title": "Beldruk the Mute Paladin",
+      "topic": "Encounter with the Scourge"
+    }, {
+      "image": "/img/imagen2.png",
+      "pageNumber": 2,
+      "paragraphs": [ ],
+      "title": "Beldruk's Valor",
+      "topic": "The Battle of Ironcliff"
+    } ],
+    "race": "undead"
+  }, {
+    "bodyType": "typeTwo",
+    "charClass": "warrior",
+    "name": "John",
+    "pages": [ {
+      "image": "/img/imagen.png",
+      "pageNumber": 1,
+      "paragraphs": [ "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.", "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.", "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.", "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination." ],
+      "title": "Beldruk the Mute Paladin",
+      "topic": "Encounter with the Scourge"
+    }, {
+      "image": "/img/imagen2.png",
+      "pageNumber": 2,
+      "paragraphs": [ ],
+      "title": "Beldruk's Valor",
+      "topic": "The Battle of Ironcliff"
+    } ],
+    "race": "undead"
+  }, {
+    "bodyType": "typeTwo",
+    "charClass": "warrior",
+    "name": "John",
+    "pages": [ {
+      "image": "/img/imagen.png",
+      "pageNumber": 1,
+      "paragraphs": [ "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.", "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.", "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.", "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination." ],
+      "title": "Beldruk the Mute Paladin",
+      "topic": "Encounter with the Scourge"
+    }, {
+      "image": "/img/imagen2.png",
+      "pageNumber": 2,
+      "paragraphs": [ ],
+      "title": "Beldruk's Valor",
+      "topic": "The Battle of Ironcliff"
+    } ],
+    "race": "undead"
+  }, {
+    "bodyType": "typeTwo",
+    "charClass": "warrior",
+    "name": "John",
+    "pages": [ {
+      "image": "/img/imagen.png",
+      "pageNumber": 1,
+      "paragraphs": [ "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.", "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.", "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.", "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination." ],
+      "title": "Beldruk the Mute Paladin",
+      "topic": "Encounter with the Scourge"
+    }, {
+      "image": "/img/imagen2.png",
+      "pageNumber": 2,
+      "paragraphs": [ ],
+      "title": "Beldruk's Valor",
+      "topic": "The Battle of Ironcliff"
+    } ],
+    "race": "undead"
+  }, {
+    "bodyType": "typeTwo",
+    "charClass": "warrior",
+    "name": "John",
+    "pages": [ {
+      "image": "/img/imagen.png",
+      "pageNumber": 1,
+      "paragraphs": [ "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.", "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.", "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.", "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination." ],
+      "title": "Beldruk the Mute Paladin",
+      "topic": "Encounter with the Scourge"
+    }, {
+      "image": "/img/imagen2.png",
+      "pageNumber": 2,
+      "paragraphs": [ ],
+      "title": "Beldruk's Valor",
+      "topic": "The Battle of Ironcliff"
+    } ],
+    "race": "undead"
+  }, {
+    "bodyType": "typeTwo",
+    "charClass": "warrior",
+    "name": "John",
+    "pages": [ {
+      "image": "/img/imagen.png",
+      "pageNumber": 1,
+      "paragraphs": [ "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.", "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.", "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.", "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination." ],
+      "title": "Beldruk the Mute Paladin",
+      "topic": "Encounter with the Scourge"
+    }, {
+      "image": "/img/imagen2.png",
+      "pageNumber": 2,
+      "paragraphs": [ ],
+      "title": "Beldruk's Valor",
+      "topic": "The Battle of Ironcliff"
+    } ],
+    "race": "undead"
+  }, {
+    "bodyType": "typeTwo",
+    "charClass": "warrior",
+    "name": "John",
+    "pages": [ {
+      "image": "/img/imagen.png",
+      "pageNumber": 1,
+      "paragraphs": [ "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.", "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.", "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.", "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination." ],
+      "title": "Beldruk the Mute Paladin",
+      "topic": "Encounter with the Scourge"
+    }, {
+      "image": "/img/imagen2.png",
+      "pageNumber": 2,
+      "paragraphs": [ ],
+      "title": "Beldruk's Valor",
+      "topic": "The Battle of Ironcliff"
+    } ],
+    "race": "undead"
+  }, {
+    "bodyType": "typeTwo",
+    "charClass": "warrior",
+    "name": "John",
+    "pages": [ {
+      "image": "/img/imagen.png",
+      "pageNumber": 1,
+      "paragraphs": [ "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.", "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.", "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.", "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination." ],
+      "title": "Beldruk the Mute Paladin",
+      "topic": "Encounter with the Scourge"
+    }, {
+      "image": "/img/imagen2.png",
+      "pageNumber": 2,
+      "paragraphs": [ ],
+      "title": "Beldruk's Valor",
+      "topic": "The Battle of Ironcliff"
+    } ],
+    "race": "undead"
+  }, {
+    "bodyType": "typeTwo",
+    "charClass": "warrior",
+    "name": "John",
+    "pages": [ {
+      "image": "/img/imagen.png",
+      "pageNumber": 1,
+      "paragraphs": [ "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.", "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.", "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.", "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination." ],
+      "title": "Beldruk the Mute Paladin",
+      "topic": "Encounter with the Scourge"
+    }, {
+      "image": "/img/imagen2.png",
+      "pageNumber": 2,
+      "paragraphs": [ ],
+      "title": "Beldruk's Valor",
+      "topic": "The Battle of Ironcliff"
+    } ],
+    "race": "undead"
+  }, {
+    "bodyType": "typeTwo",
+    "charClass": "warrior",
+    "name": "John",
+    "pages": [ {
+      "image": "/img/imagen.png",
+      "pageNumber": 1,
+      "paragraphs": [ "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.", "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.", "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.", "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination." ],
+      "title": "Beldruk the Mute Paladin",
+      "topic": "Encounter with the Scourge"
+    }, {
+      "image": "/img/imagen2.png",
+      "pageNumber": 2,
+      "paragraphs": [ ],
+      "title": "Beldruk's Valor",
+      "topic": "The Battle of Ironcliff"
+    } ],
+    "race": "undead"
+  }, {
+    "bodyType": "typeTwo",
+    "charClass": "warrior",
+    "name": "John",
+    "pages": [ {
+      "image": "/img/imagen.png",
+      "pageNumber": 1,
+      "paragraphs": [ "Beldruk was born in the kingdom of Lordaeron during a time of relative peace. He was raised in a family of devout followers of the Holy Light, and from a young age, he showed a strong affinity for the religion. As he grew older, he became a skilled warrior, and his faith only grew stronger.", "However, during the Third War, Beldruk was captured by the Scourge and subjected to horrific torture. The trauma of his experience left him unable to speak, but his faith in the Light remained unshaken. After being rescued, he joined the Order of the Silver Hand and continued to serve as a paladin, despite his inability to communicate verbally.", "Beldruk is known as 'The Silent Crusader' among his peers, a title he earned due to his unwavering dedication to the Light, even in the face of unspeakable horrors.", "Beldruk's experiences have left him with a stoic and serious demeanor, similar to a soldier who has seen the horrors of war. However, his unshakeable faith in the Light and his desire to help those in need make him a beacon of hope for those around him. He exudes a sense of optimism and radiates positivity, inspiring others to follow his lead. Despite his inability to speak, he is a skilled and intuitive leader, leading his allies into battle with a calm and focused determination." ],
+      "title": "Beldruk the Mute Paladin",
+      "topic": "Encounter with the Scourge"
+    }, {
+      "image": "/img/imagen2.png",
+      "pageNumber": 2,
+      "paragraphs": [ ],
+      "title": "Beldruk's Valor",
+      "topic": "The Battle of Ironcliff"
+    } ],
+    "race": "undead"
+  } ]
 }
