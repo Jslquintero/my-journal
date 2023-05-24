@@ -8,7 +8,7 @@ const Layout = ({children, title}) => {
                 <meta charSet='utf-8'/>
                 <link href="https://fonts.cdnfonts.com/css/warcraft" rel="stylesheet"/>
             </Head>
-            <div className=''>
+            <div>
                 <main>{children}</main>
             </div>
         </>

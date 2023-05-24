@@ -11,32 +11,14 @@
   padding: 4.4em;
 }
 
-/* Note.module.css */
-
-.characterList {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  gap: 20px;
-}
-
 .characterItem {
-  display: grid;
-  gap: 2rem;
   align-items: center;
   justify-items: center;
+  justify-self: left;
 }
 
 .characterItem:hover {
-  transform: scale(1.0);
-  border: 1px solid rgb(214, 214, 5);
-  border-radius: 5px;
-  background-color: rgba(255, 255, 0, 0.144);
-  margin-left: 3rem;
-  margin-right: 3rem;
-}
-
-.imageContainer {
-  display: flex;
-  gap: 10px;
-  margin-top: 10px;
+  background-color: #feda5b; /* Yellow background color */
+  border: 2px solid #e5c448; /* Yellow border color */
+  border-radius: 8px;
 }

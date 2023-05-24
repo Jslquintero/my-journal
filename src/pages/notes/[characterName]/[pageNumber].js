@@ -1,6 +1,6 @@
 import {useRouter} from 'next/router'
 import notesData from '../../../../data/notes.json'
-import Layout from '../../../components/_layout'
+import Layout from '../../../components/layout/_layout'
 import Card from '../../../components/card/card'
 import styles from '../Note.module.css'
 
