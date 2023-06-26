@@ -82,8 +82,8 @@ const Notes = () => {
                             readers will find invaluable tips,
                             strategies,
                             and
-                            insights to aid them on their own adventures.Each character 's
-                             journal offers a captivating glimpse into the intricate tapestryof Vanilla World of Warcraft,
+                            insights to aid them on their own adventures.Each character's
+                            journal offers a captivating glimpse into the intricate tapestryof Vanilla World of Warcraft,
                             an immersive and ever - evolving
                             experience that will keep readers enthralled until the final page.
 
